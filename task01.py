@@ -4,6 +4,6 @@
 name = input("Ismingizni kiriting: ")
 age = int(input("Yoshingizni kiriting: "))
 
-massage = "Salom mening ismim {name} va yoshim {age} yoshda.".format(name=name, age=age)
+message = "Salom mening ismim {name} va yoshim {age} yoshda.".format(name=name, age=age)
 
-print(massage)
+print(message)

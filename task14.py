@@ -1,8 +1,8 @@
 # Berilgan substring (py) necha marta qatnashganini toping
 
 text = input("Matn kiriting: ")
-subtext = "py"
+substring = "py"
 
-num_subtext = text.count(subtext)
+num_substring = text.count(substring)
 
-print(num_subtext)
+print(num_substring)

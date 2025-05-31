@@ -2,8 +2,8 @@
 # find() orqali mavjud bo‘lmagan so‘zni qidiring.
 
 text = input("Matn kiriting: ")
-sub_text = input("Matn ichida bo'lmagan so'z yozing: ")
+word = input("Matn ichida bo'lmagan so'z yozing: ")
 
-index_text = text.find(sub_text)
+index = text.find(word)
 
-print(index_text)
+print(index)

@@ -2,8 +2,8 @@
 # index() orqali Python so‘zi qayerdan boshlanganini toping.
 
 text = input("Matn kiriting: ")
-sub_text = input("Matn ichidan bir so'z yozing: ")
+word = input("Matn ichidan bir so'z yozing: ")
 
-index_text = text.index(sub_text)
+index = text.index(word)
 
-print(index_text)
+print(index)

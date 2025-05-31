@@ -5,6 +5,6 @@ gmail = input("Gmail kiriting: ")
 
 index = gmail.index("@")
 
-index_num = "'@' belgisi {index}-pozitsiyada joylashgan.".format(index=index)
+result = "'@' belgisi {index}-pozitsiyada joylashgan.".format(index=index)
 
-print(index_num)
+print(result)

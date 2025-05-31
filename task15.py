@@ -5,4 +5,4 @@ dot = "."
 
 num_dot = text.count(dot)
 
-print(dot)
+print(num_dot)

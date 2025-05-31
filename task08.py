@@ -2,8 +2,8 @@
 # Faqat birinchi topilgan joyni chiqaring.
 
 text = input("Matn kiriting: ")
-sub_text = input("Matn ichidan bir so'z yozing: ")
+word = input("Matn ichidan bir so'z yozing: ")
 
-indeks = text.find(sub_text)
+index = text.find(word)
 
-print(indeks)
+print(index)

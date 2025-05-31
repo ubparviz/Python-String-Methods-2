@@ -1,7 +1,7 @@
 # So‘zda bo‘sh joylar sonini toping
 
 text = input("Matn kiriting: ")
-x = " "  
-num_x = text.count(x)
+space = " "  
+num_space = text.count(space)
 
-print(num_x)
+print(num_space)

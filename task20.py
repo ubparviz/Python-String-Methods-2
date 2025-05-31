@@ -1,6 +1,6 @@
 # Sarlavhani title() yordamida formatlash 
 
-text = input("Mahsulot nomini yozing: ")
+text = input("Matn kiriting: ")
 
 title = text.title()
 

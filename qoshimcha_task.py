@@ -1,4 +1,4 @@
-# Foydalanuvchi kiritgan matndan barcha sonlarni hisoblang
+# Foydalanuvchi kiritgan matndan barcha raqamlarni hisoblang
 
 text = input("Matn kiriting: ")
 

@@ -1,8 +1,8 @@
 # Parol kamida 1 ta raqamdan iboratmi? 
 # Ro‘yxatdan o‘tishda isdigit() orqali raqam mavjudligi tekshiriladi.
 
-name = input("Ismingizni yozing: ")
+parol = input("Parol kiriting: ")
 
-check_name = name.isdigit()
+check_parol = any(map(str.isdigit, parol))
 
-print(check_name)
+print(check_parol)
